@@ -1,0 +1,7 @@
+6
+zapatos 50.00 17
+gorras 15.00 8
+shorts 20.00 40
+hoodies 60.00 5
+medias 10.00 10
+tenis 100.00 20
